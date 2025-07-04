@@ -1,0 +1,7 @@
+name: faers-etl
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
