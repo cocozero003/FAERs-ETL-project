@@ -1,1 +1,3 @@
-# Utility functions for FAERS ETL pipeline
+# Module: utils.py
+def main():
+    print("Running utils.py - placeholder")

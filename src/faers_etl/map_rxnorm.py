@@ -1,2 +1,3 @@
+# Module: map_rxnorm.py
 def main():
-    print("Map drugs to RxNorm")
+    print("Running map_rxnorm.py - placeholder")
